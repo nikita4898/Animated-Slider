@@ -1,0 +1,35 @@
+@font-face {
+	font-family: fibra-bold;
+	src: url(../fonts/FibraOne-Bold.eot);
+	src: url(../fonts/FibraOne-Bold.woff2) format("woff2"), url(../fonts/FibraOne-Bold.woff) format("woff"), url(../fonts/FibraOne-Bold.ttf) format("truetype"), url(../fonts/FibraOne-Bold.svg) format("svg")
+}
+
+@font-face {
+	font-family: fibra-heavy;
+	src: url(../fonts/FibraOne-Heavy.eot);
+	src: url(../fonts/FibraOne-Heavy.woff2) format("woff2"), url(../fonts/FibraOne-Heavy.woff) format("woff"), url(../fonts/FibraOne-Heavy.ttf) format("truetype"), url(../fonts/FibraOne-Heavy.svg) format("svg")
+}
+
+@font-face {
+	font-family: fibra-light;
+	src: url(../fonts/FibraOne-Light.eot);
+	src: url(../fonts/FibraOne-Light.woff2) format("woff2"), url(../fonts/FibraOne-Light.woff) format("woff"), url(../fonts/FibraOne-Light.ttf) format("truetype"), url(../fonts/FibraOne-Light.svg) format("svg")
+}
+
+@font-face {
+	font-family: fibra-regular;
+	src: url(../fonts/FibraOne-Regular.eot);
+	src: url(../fonts/FibraOne-Regular.woff2) format("woff2"), url(../fonts/FibraOne-Regular.woff) format("woff"), url(../fonts/FibraOne-Regular.ttf) format("truetype"), url(../fonts/FibraOne-Regular.svg) format("svg")
+}
+
+@font-face {
+	font-family: fibra-samibold;
+	src: url(../fonts/FibraOne-SemiBold.eot);
+	src: url(../fonts/FibraOne-SemiBold.woff2) format("woff2"), url(../fonts/FibraOne-SemiBold.woff) format("woff"), url(../fonts/FibraOne-SemiBold.ttf) format("truetype"), url(../fonts/FibraOne-SemiBold.svg) format("svg")
+}
+
+@font-face {
+	font-family: fibra-ultralight;
+	src: url(../fonts/FibraOne-UltraLight.eot);
+	src: url(../fonts/FibraOne-UltraLight.woff2) format("woff2"), url(../fonts/FibraOne-UltraLight.woff) format("woff"), url(../fonts/FibraOne-UltraLight.ttf) format("truetype"), url(../fonts/FibraOne-UltraLight.svg) format("svg")
+}
